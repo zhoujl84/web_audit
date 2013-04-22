@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<WebsiteBlacklistConfig>
+    <Website>
+        <Url>www.kangshuaibo.com</Url>
+        <Subject>Subject1</Subject>
+        <Keyword>Keyword1</Keyword>
+        <Owner>Owner1</Owner>
+        <Description>Description1</Description>
+        <RiskWeight>10</RiskWeight>
+        <RiskReason>商标仿冒</RiskReason>
+        <ReceivedDate>20110101</ReceivedDate>
+        <UpdatedDate>20130101</UpdatedDate>
+    </Website>
+    <Website>
+        <Url>www.sex.com</Url>
+        <Subject>Subject2</Subject>
+        <Keyword>Keyword2</Keyword>
+        <Owner>Owner2</Owner>
+        <Description>Description2</Description>
+        <RiskWeight>10</RiskWeight>
+        <RiskReason>成人色情</RiskReason>
+        <ReceivedDate>20110101</ReceivedDate>
+        <UpdatedDate>20130301</UpdatedDate>
+    </Website>
+</WebsiteBlacklistConfig>
